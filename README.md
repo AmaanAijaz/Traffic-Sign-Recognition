@@ -16,4 +16,4 @@ The CNN  was trained in batches of 32 as well as 64, but the 64 batch model was 
 
 Then the model is saved by the name 'traffic_classifier-Batch64.h5'.
 
-Currently, a GUI is in the works for the same model usig Tkiter in Python
+Currently, a GUI is in the works for the same model using Tkinter in Python
