@@ -2,7 +2,7 @@
 
 This project belongs to the domain of Machine Learning with the help of OpeCV.
 
-The project involves training a model based o the dataset obtained on kaggle, (link:- https://www.kaggle.com/c/traffic-sign-recognition/overview ).
+The project involves training a model based on  the dataset obtained on kaggle, (link:- https://www.kaggle.com/c/traffic-sign-recognition/overview ).
 
 
 The data is coverted to a CSV file before the machine is trained on it.
